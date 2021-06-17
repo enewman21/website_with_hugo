@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://my-test-hugo-page-swc.netlify.app/
 languageCode: en-us
 title: My new Hugo website - updated yet again....
 theme: hugo-lithium
