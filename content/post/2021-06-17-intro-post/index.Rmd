@@ -1,0 +1,21 @@
+---
+title: new post created by me
+author: R package build
+date: '2021-06-17'
+slug: intro-post
+categories:
+  - R
+tags: blogdown
+---
+
+OK, here is my post stuff
+
+```{r}
+plot(cars)
+```
+
+```{r}
+x <- c(1,2)
+x
+```
+
